@@ -1,0 +1,2 @@
+bitly-api==0.3
+tweepy==2.3.0
